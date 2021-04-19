@@ -24,7 +24,7 @@
         <input type="text" name="title" id="title" value="{{$posts->title}}">
     </div>
     <div>
-        <button type="submit">Update Comment Replays</button>
+        <button type="submit">Update Comment </button>
     </div>
 </form>
 </body>
